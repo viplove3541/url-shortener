@@ -42,6 +42,13 @@ Tech Stack Used :
 - REACT COPY TO CLIPBOARD
 - SHRTCODE API
 
+  ## Author
+
+👤 **VIPLOVE KALE**
+
+- Github: [@viplove3541](https://github.com/viplove3541)
+- LinkedIn: [](https://www.linkedin.com/in/viplove-kale-42032283/)
+
 
 
 
