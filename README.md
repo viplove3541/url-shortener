@@ -47,7 +47,7 @@ Tech Stack Used :
 👤 **VIPLOVE KALE**
 
 - Github: [@viplove3541](https://github.com/viplove3541)
-- LinkedIn: [](https://www.linkedin.com/in/viplove-kale-42032283/)
+- LinkedIn: [@viplove-kale-42032283](https://www.linkedin.com/in/viplove-kale-42032283/)
 
 
 
