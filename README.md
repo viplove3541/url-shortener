@@ -26,20 +26,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]("https://viplove-url-shortener.netlify.app/")
-
-Movielogy combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
-
 Features include:
-* user authentication,
-* light and dark mode,
-* API calls with axios and Redux,
-* actors and movie details page,
-* watchlist and list of favorite movies,
-* movie search functionality,
-* Alan AI voice functionality and many more.
-
-Alan works as an in-app voice assistant for the Movielogy project. Try clicking on the Alan AI icon on the bottom right of the page and try saying, "Search for Naruto" or "Make it light/ Make it dark" or say "Surprise me".
+- Built with React.js ✨
+- One page layout ✨
+- Dynamic ✨
+- Responsive ✨
 
 
 
