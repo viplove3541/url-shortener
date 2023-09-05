@@ -19,7 +19,7 @@
     <a href="https://movielogy-viplove3541.netlify.app/">View Demo Site</a>
     .
     ·
-    <a href="https://github.com/viplove3541/movielogy/issues">Request Feature</a>
+    <a href="https://github.com/viplove3541/url-shortener/issues">Request Feature</a>
   </p>
 </div>
 
