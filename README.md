@@ -14,7 +14,7 @@
   <p align="center">
     Movielogy - AI Powered Movie App [React.js, Material UI, Alan AI]
     <br />
-    <a href="https://github.com/viplove3541/movielogy"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/viplove3541/url-shortener"><strong>Explore the project »</strong></a>
     <br />
     <br />
     <a href="https://movielogy-viplove3541.netlify.app/">View Demo Site</a>
