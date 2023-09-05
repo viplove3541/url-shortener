@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/viplove3541/url-shortener">
-    <img src="https://fontmeme.com/permalink/230905/ce214558db819681b8a3f43455749f3d.png" alt="URL-shortener" width="280" height="100">
+    <img src="https://fontmeme.com/permalink/230905/f2c7828a500a90ebaf60634933c3b9ae.png" alt="URL-shortener" width="280" height="100">
   </a>
 
   <h2 align="center">URL Shortener - Viplove Kale</h2>
