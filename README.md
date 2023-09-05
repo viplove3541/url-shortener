@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/viplove3541/movielogy">
-    <img src="https://fontmeme.com/permalink/230905/7022c779ee2f1e2f1a02c4682c23e8f9.png" alt="URL-shortener" width="252" height="85">
+    <img src="https://fontmeme.com/permalink/230905/e197a892f5129bc61a12d4f425f021a4.png" alt="URL-shortener" width="252" height="85">
   </a>
 
   <h2 align="center">Movielogy - Viplove Kale</h2>
