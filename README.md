@@ -16,7 +16,7 @@
     <a href="https://github.com/viplove3541/url-shortener"><strong>Explore the project »</strong></a>
     <br />
     <br />
-    <a href="https://movielogy-viplove3541.netlify.app/">View Demo Site</a>
+    <a href="https://viplove-url-shortener.netlify.app/">View Demo Site</a>
     .
     ·
     <a href="https://github.com/viplove3541/url-shortener/issues">Request Feature</a>
@@ -26,7 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]("https://movielogy-viplove3541.netlify.app/")
+[![Product Name Screen Shot][product-screenshot]]("https://viplove-url-shortener.netlify.app/")
 
 Movielogy combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
 
