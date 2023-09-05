@@ -12,7 +12,6 @@
   <h2 align="center">URL Shortener - Viplove Kale</h2>
 
   <p align="center">
-    Movielogy - AI Powered Movie App [React.js, Material UI, Alan AI]
     <br />
     <a href="https://github.com/viplove3541/url-shortener"><strong>Explore the project »</strong></a>
     <br />
