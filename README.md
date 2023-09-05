@@ -25,6 +25,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Create shortener app with shrtcode api, so we just need to fetch data from the api and add long url as a parameter and then we get the shortener url, so simple. we also try to implement copy to clipboard functionality with react-copy-to-clipboard package.
 
 Features include:
 - Built with React.js ✨
@@ -32,16 +33,17 @@ Features include:
 - Dynamic ✨
 - Responsive ✨
 
+Tech Stack Used :
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT.JS
+- AXIOS
+- REACT COPY TO CLIPBOARD
+- SHRTCODE API
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-Used resources:
-
-* [The Movie DB API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
-* [Alan AI Documentation](https://alan.app/docs/)
-* [MUI Library](https://mui.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: src/assets/images/screenshot1.png
