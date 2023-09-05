@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+<div id="top"></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT [othneildrew] SHIELDS -->
 
-## Available Scripts
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/viplove3541/movielogy">
+    <img src="https://fontmeme.com/permalink/230905/7022c779ee2f1e2f1a02c4682c23e8f9.png" alt="URL-shortener" width="252" height="85">
+  </a>
 
-In the project directory, you can run:
+  <h2 align="center">Movielogy - Viplove Kale</h2>
 
-### `npm start`
+  <p align="center">
+    Movielogy - AI Powered Movie App [React.js, Material UI, Alan AI]
+    <br />
+    <a href="https://github.com/viplove3541/movielogy"><strong>Explore the project »</strong></a>
+    <br />
+    <br />
+    <a href="https://movielogy-viplove3541.netlify.app/">View Demo Site</a>
+    .
+    ·
+    <a href="https://github.com/viplove3541/movielogy/issues">Request Feature</a>
+  </p>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[![Product Name Screen Shot][product-screenshot]]("https://movielogy-viplove3541.netlify.app/")
 
-### `npm test`
+Movielogy combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Features include:
+* user authentication,
+* light and dark mode,
+* API calls with axios and Redux,
+* actors and movie details page,
+* watchlist and list of favorite movies,
+* movie search functionality,
+* Alan AI voice functionality and many more.
 
-### `npm run build`
+Alan works as an in-app voice assistant for the Movielogy project. Try clicking on the Alan AI icon on the bottom right of the page and try saying, "Search for Naruto" or "Make it light/ Make it dark" or say "Surprise me".
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
-### `npm run eject`
+Used resources:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* [The Movie DB API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
+* [Alan AI Documentation](https://alan.app/docs/)
+* [MUI Library](https://mui.com/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: src/assets/images/screenshot1.png
